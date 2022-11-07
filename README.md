@@ -21,5 +21,15 @@ turns on. Seeed studio HSM20G
 temperature & humidity sensor is used here
 to sense the temperature and humidity. A LCD display is used to show the
 temperature and humidity level on your room. You can use Grove button to
-manually control the humidifier. To control all the things Arduino UNO is
-used.
+manually control the humidifier. We'll use an Arduino UNO to control these components.
+
+# Components
+1. Arduino Uno X 1
+2. LCD 16*2 Characters Green Yellow back light X 1
+3. Breadboard Jumper Wire Pack(200mm/165mm/125mm/80mm) X 1
+4. Momentary Pushbutton Switch X 1
+5. Grove Water Atomization v1.0 X 1
+6. Humidity /temperature sensor module X 1
+
+# Connctions
+![humidifier-lcd_bb](https://user-images.githubusercontent.com/60857774/200271055-73bedf88-ebdd-47b5-b874-19343ece4713.jpg)
